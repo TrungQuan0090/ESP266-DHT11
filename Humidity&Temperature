@@ -1,3 +1,5 @@
+# to change language of repo from Javascript to Python
+    *.js linguist-language=C++
 #include <DHT.h>  // Including library for dht
  
 #include <ESP8266WiFi.h>
